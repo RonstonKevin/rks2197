@@ -1,0 +1,5 @@
+#comment
+set X 1
+set Y 2
+set Z [expr{$X + $Y}]
+puts "$Y plus $X is $Z"
